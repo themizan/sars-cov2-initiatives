@@ -21,5 +21,11 @@
 ## Home Isolation / Disinfection
 + negative pressure bedroom fan w/ uvc sterlization
 + UVC sterilizer for bathrooms
+	- door switch to detect opening/closing of door
+	- light sensor to detect room occupancy
+	- buzzer to sound alert prior to lamp activation
+	- bluetooth connection to mobile app to view status?
 + checklist for sterilization
+
+### Research
 + simple/cheap uvc filter?- We report here that a Pyrex dish provides an effective, stable, robust and inexpensive filter for reducing or excluding the contribution of UVC to damage induced by broad-spectrum 'UVB' lamps. - https://www.ncbi.nlm.nih.gov/pubmed/9639912
