@@ -25,6 +25,7 @@
 	- light sensor to detect room occupancy
 	- buzzer to sound alert prior to lamp activation
 	- bluetooth connection to mobile app to view status?
+	- https://www.tandfonline.com/doi/full/10.1080/15459620590952224
 + checklist for sterilization
 
 ### Research
