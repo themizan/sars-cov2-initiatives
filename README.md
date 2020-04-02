@@ -30,3 +30,15 @@
 
 ### Research
 + simple/cheap uvc filter?- We report here that a Pyrex dish provides an effective, stable, robust and inexpensive filter for reducing or excluding the contribution of UVC to damage induced by broad-spectrum 'UVB' lamps. - https://www.ncbi.nlm.nih.gov/pubmed/9639912
++ https://www.researchgate.net/post/How_can_we_calculate_UV_light_intensity
++ https://www.nature.com/articles/s41598-018-21058-w
++ https://aem.asm.org/content/82/1/2.full
++ https://www.candlepowerforums.com/vb/showthread.php?444304-Looking-for-a-source-of-LEDs-with-emission-at-207-nm
++ https://cgi.jp.sharp/corporate/rd/n36/pdf/104_08.pdf
+
+"Get 100% silicone product that is FDA approved without any additives.
+
+For example GE Silicone I is a safe brand, but Silicone II is not because of the additive. This is the one from Home Depot, not sure if Lowes carries it.
+
+DAP 100% silicone works well too, just make sure it is the one that is 100% silicone with no additives."
+https://www.reef2reef.com/threads/is-ge-silicone-ii-safe-for-my-aquarium.47020/
